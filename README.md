@@ -1,2 +1,4 @@
 # Simple-RL-QTable
-Simple Reinforcement Learning using Q tables. Train an agent to move to destination
+
+Simple Reinforcement Learning using Q tables. Train an agent to move to its destination
+
