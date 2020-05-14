@@ -9,10 +9,10 @@ Simple Reinforcement Learning using Q tables. Train an agent to move to its des
 
 
 **Dependancy modules:<br/>**
-*numpy<br/>
-*pandas<br/>
-*time<br/>
-*tkinter - for display purpose<br/>
+- numpy<br/>
+- pandas<br/>
+- time<br/>
+- tkinter - for display purpose<br/>
 
 
 Just execute the following to train or test:<br/>
